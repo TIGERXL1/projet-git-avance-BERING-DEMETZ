@@ -1,4 +1,4 @@
-package _5_09_2025
+package main
 
 import "fmt"
 
@@ -10,8 +10,13 @@ func test2() {
 	fmt.Println("This is a second test")
 }
 
+func test3() {
+	fmt.Println("This is a third test")
+}
+
 func main() {
 	fmt.Println("Hello world from a!")
 	test1()
 	test2()
+	test3()
 }
