@@ -1,4 +1,4 @@
-# projet-git-avancé
+# projet-git-avancé-de-nous
 
 Func hello -> print: Hello world !
 Func hello2 -> print: Hello world
