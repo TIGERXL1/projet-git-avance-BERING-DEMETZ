@@ -2,6 +2,20 @@ package main
 
 import "fmt"
 
+func Hello2() {
+	fmt.Println("Hello world")
+}
+
+func Number() {
+	fmt.Println("123")
+}
+
+func Number2() {
+	fmt.Println("456")
+}
+func Hello() {
+	fmt.Println("Hello world !")
+}
 func test1() {
 	fmt.Println("This is a first test")
 }
@@ -15,7 +29,11 @@ func test3() {
 }
 
 func main() {
-	fmt.Println("Hello world from a!")
+	Hello()
+	Hello2()
+	Number()
+	Number2()
+  fmt.Println("Hello world from a!")
 	test1()
 	test2()
 	test3()
