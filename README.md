@@ -1,4 +1,4 @@
-# projet-git-avance-BERING-DEMETZ
+# projet-git-avancé
 
 Func hello -> print: Hello world !
 Func hello2 -> print: Hello world
