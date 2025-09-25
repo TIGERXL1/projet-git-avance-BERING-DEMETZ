@@ -13,8 +13,14 @@ func Hello2() {
 func Number() {
 	fmt.Println("123")
 }
+
+func Number2() {
+	fmt.Println("456")
+}
+
 func main() {
 	Hello()
 	Hello2()
 	Number()
+	Number2()
 }
