@@ -1,9 +1,5 @@
 HOTFIX - Correction urgente
-========================
 
-- Correction du bug critique de sécurité
+- Correction du bug critique
 - Patch appliqué en urgence
-- Version: hotfix-001
-- Date: 2025-09-25
 
-Ce fichier représente une correction urgente qui doit être déployée rapidement.
